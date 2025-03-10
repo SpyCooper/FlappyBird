@@ -8,7 +8,7 @@ This program is a simple recreation of the popular mobile game Flappy Bird, deve
 
 ## Folder Structure
 
-- `src`: the folder to maintain sources
+- `src`: the folder to maintain source files
 - `bin`: the folder with compiled output files from running the program in VSCode
 - `images`: the folder for the images that are embedded in the README.md file
 
